@@ -113,3 +113,5 @@ The license for Aperture Automation SDK is the Business Source License 1.1 (BUSL
 If you have any questions, suggestions, or feedback, please feel free to reach out to us at engineering@aperture.finance
 
 <!-- Auto-update: 2025-10-14T00:36:42.265812 -->
+
+<!-- Auto-update: 2025-10-15T16:42:16.466099 -->
